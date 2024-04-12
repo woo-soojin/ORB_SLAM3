@@ -85,7 +85,7 @@ We provide some examples to process input of a monocular, monocular-inertial, st
 
 Clone the repository:
 ```
-git clone --recursive https://github.com/UZ-SLAMLab/ORB_SLAM3.git ORB_SLAM3
+git clone --recursive https://github.com/woo-soojin/ORB_SLAM3.git ORB_SLAM3
 ```
 
 We provide a script `build.sh` to build the *Thirdparty* libraries and *ORB-SLAM3*. Please make sure you have installed all required dependencies (see section 2). Execute:
